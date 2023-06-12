@@ -1,0 +1,10 @@
+* garbage-pools
+
+Implementation pools for resource management.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/archimag/garbage-pools.git   |
+| commit  | 9a7cb7f  |
+| systems | garbage-pools |
+|---------+-------------------------------------------|
+
